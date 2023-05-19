@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 📫 How to reach me **ali560i@hotmail.com**
+- 📫 How to reach me **AliAlmarzooq530@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
