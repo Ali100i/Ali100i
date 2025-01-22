@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ali530ii" target="blank"><img src="https://img.shields.io/twitter/follow/ali530ii?logo=twitter&style=for-the-badge" alt="ali530ii" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
-
 - 📫 How to reach me **AliAlmarzooq530@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
