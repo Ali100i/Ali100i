@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hi 👋, I'm Ali Al Marzouq</h1>
-<h3 align="center">A Computer Science student in KFUPM</h3>
+<h3 align="center">A Computer Science Graduate from KFUPM</h3>
 <img align="right" alit="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali100i&label=Profile%20views&color=0e75b6&style=flat" alt="ali100i" /> </p>
